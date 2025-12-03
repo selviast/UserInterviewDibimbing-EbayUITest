@@ -3070,3 +3070,82 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 2025-12-03 14:29:48.051 [Test worker] INFO  pages.DashboardPage - Condition: New sudah tertampil
 2025-12-03 14:29:48.339 [Test worker] INFO  pages.DashboardPage - Price: Under $748,125 sudah tertampil
 2025-12-03 14:29:48.378 [Test worker] INFO  pages.DashboardPage - Item location: Worldwide sudah tertampil
+2025-12-03 14:58:00.957 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:58:00.963 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:58:00.963 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 14:58:01.231 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 14:58:01.246 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 14:58:06.337 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 14:58:11.665 [Test worker] INFO  pages.SearchResultPage - First carousel item text: BUNDLE APPLE MACBOOK AIR 13 INCH LAPTOP / 8GB RAM / 256GB SSD / MACOS
+Opens in a new window or tab
+Pre-Owned · 13 in
+IDR3,857,000.00IDR7,714,000.00
+Buy It Now
++IDR1,501,071.25 delivery
+Located in United States
+Almost gone
+19 sold
+bit-by-bit-electronics 99.5% positive (7.9K)
+Sponsored
+2025-12-03 14:58:11.671 [Test worker] INFO  core.TestListener - Test Error name: accessProductViaSearchBar
+2025-12-03 15:04:03.215 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 15:04:03.220 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 15:04:03.220 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 15:04:03.478 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 15:04:03.493 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 15:04:06.526 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 15:04:13.280 [Test worker] INFO  pages.SearchResultPage - First carousel item text: BUNDLE APPLE MACBOOK AIR 13 INCH LAPTOP / 8GB RAM / 256GB SSD / MACOS
+Opens in a new window or tab
+Pre-Owned · 13 in
+IDR3,857,000.00IDR7,714,000.00
+Buy It Now
++IDR1,501,071.25 delivery
+Located in United States
+Almost gone
+19 sold
+bit-by-bit-electronics 99.5% positive (7.9K)
+Sponsored
+2025-12-03 15:10:01.261 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 15:10:01.263 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 15:10:01.264 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 15:10:01.536 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 15:10:01.551 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 15:10:04.670 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 15:10:08.952 [Test worker] INFO  pages.SearchResultPage - First carousel item text: BUNDLE APPLE MACBOOK AIR 13 INCH LAPTOP / 8GB RAM / 256GB SSD / MACOS
+Opens in a new window or tab
+Pre-Owned · 13 in
+IDR3,857,000.00IDR7,714,000.00
+Buy It Now
++IDR1,501,071.25 delivery
+Located in United States
+Almost gone
+19 sold
+bit-by-bit-electronics 99.5% positive (7.9K)
+Sponsored
+2025-12-03 15:15:26.746 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 15:15:26.749 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 15:15:26.749 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 15:15:27.004 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 15:15:27.020 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 15:15:30.318 [Test worker] INFO  core.TestListener - Test Error name: accessProductViaSearchBar
+2025-12-03 15:26:09.425 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 15:26:09.428 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 15:26:09.428 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 15:26:09.511 [Test worker] INFO  core.TestListener - Test Error name: accessProductViaSearchBar
+2025-12-03 15:27:01.295 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 15:27:01.297 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 15:27:01.298 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 15:27:02.515 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 15:27:02.527 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 15:27:05.320 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 15:27:12.367 [Test worker] INFO  pages.SearchResultPage - First carousel item text: BUNDLE APPLE MACBOOK AIR 13 INCH LAPTOP / 8GB RAM / 256GB SSD / MACOS
+Opens in a new window or tab
+Pre-Owned · 13 in
+IDR3,857,000.00IDR7,714,000.00
+Buy It Now
++IDR1,501,071.25 delivery
+Located in United States
+Almost gone
+19 sold
+bit-by-bit-electronics 99.5% positive (7.9K)
+Sponsored
