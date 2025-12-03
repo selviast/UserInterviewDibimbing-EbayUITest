@@ -2792,3 +2792,281 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 2025-11-10 19:52:53.341 [Test worker] INFO  pages.DropdownProfilePage - Dropdown Icon sudah muncul
 2025-11-10 19:52:53.372 [Test worker] INFO  pages.DropdownProfilePage - Click Dropdown
 2025-11-10 19:52:53.413 [Test worker] INFO  pages.DropdownProfilePage - Click Menu Your Gist
+2025-12-03 13:20:53.660 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:20:53.667 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:20:53.667 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:20:54.726 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:20:54.798 [Test worker] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/mac-arm64/chromedriver-mac-arm64.zip
+2025-12-03 13:20:58.223 [Test worker] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-mac-arm64.zip
+2025-12-03 13:20:58.354 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:21:02.314 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:21:03.017 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:21:58.096 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:21:58.098 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:21:58.099 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:21:58.361 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:21:58.375 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:22:00.901 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:22:11.953 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:22:54.263 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:22:54.266 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:22:54.266 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:22:54.508 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:22:54.524 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:22:58.925 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:23:48.740 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:23:48.743 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:23:48.743 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:23:48.995 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:23:49.011 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:23:51.618 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:23:54.642 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:23:58.076 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:24:24.403 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:24:24.405 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:24:24.405 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:24:24.648 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:24:24.656 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:24:27.105 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:24:30.163 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:24:41.831 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:25:49.028 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:25:49.031 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:25:49.031 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:25:49.271 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:25:49.286 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:25:52.707 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:25:54.723 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:26:07.325 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:26:53.860 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:26:53.862 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:26:53.862 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:26:54.101 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:26:54.116 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:26:59.492 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:27:01.848 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:27:13.553 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:28:12.618 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:28:12.621 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:28:12.621 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:28:12.885 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:28:12.898 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:28:16.172 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:28:18.147 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:28:29.894 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:28:33.015 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:28:33.017 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:28:33.017 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:28:33.330 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:28:33.340 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:28:37.797 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:28:39.580 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:29:01.871 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:30:12.188 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:30:12.191 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:30:12.191 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:30:12.442 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:30:12.454 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:30:17.019 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:30:18.699 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:30:31.389 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:32:04.269 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:32:04.272 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:32:04.272 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:32:04.534 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:32:04.547 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:32:07.253 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:32:10.482 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:32:23.715 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:33:44.117 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:33:44.120 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:33:44.120 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:33:44.383 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:33:44.397 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:33:48.287 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:33:49.813 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:34:03.102 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:35:08.513 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:35:08.516 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:35:08.516 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:35:08.764 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:35:08.778 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:35:12.123 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:35:15.451 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:35:19.308 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:36:03.212 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:36:03.214 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:36:03.215 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:36:03.457 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:36:03.472 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:36:07.350 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:36:08.599 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:36:13.516 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:36:13.518 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:36:13.519 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:36:13.761 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:36:13.770 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:36:18.704 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:36:20.933 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:36:35.460 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:38:09.376 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:38:09.378 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:38:09.379 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:38:09.626 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:38:09.639 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:38:14.244 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:38:16.010 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:38:29.939 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:38:33.143 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:38:33.145 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:38:33.145 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:38:33.459 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:38:33.467 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:38:37.040 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:38:38.579 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:38:43.373 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:40:11.162 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:40:11.164 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:40:11.165 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:40:11.410 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:40:11.425 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:40:15.520 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:40:19.211 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:40:23.705 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:40:57.742 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:40:57.744 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:40:57.745 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:40:57.989 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:40:58.004 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:41:00.437 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:41:03.463 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:41:18.385 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:45:56.630 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:45:56.633 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:45:56.633 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:45:56.899 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:45:56.916 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:46:00.704 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:46:02.657 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:46:07.664 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:47:45.585 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:47:45.591 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:47:45.591 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:47:45.834 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:47:45.849 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:47:50.458 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:47:52.115 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:47:56.148 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:51:14.632 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:51:14.635 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:51:14.635 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:51:14.904 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:51:14.919 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:51:19.024 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:51:20.437 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:51:36.417 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:53:56.290 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:53:56.292 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:53:56.292 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:53:56.562 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:53:56.576 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:53:59.062 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:54:02.206 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:54:16.664 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:57:57.904 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:57:57.907 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:57:57.907 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:57:58.171 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:57:58.184 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:58:01.044 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:58:03.567 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:58:09.866 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 13:59:15.982 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:59:15.984 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 13:59:15.984 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 13:59:16.228 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 13:59:16.242 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 13:59:18.767 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 13:59:22.064 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 13:59:28.430 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 14:00:55.344 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:00:55.347 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:00:55.347 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 14:00:55.622 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 14:00:55.637 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 14:01:00.278 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 14:01:01.703 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 14:01:08.159 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 14:02:01.203 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:02:01.205 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:02:01.206 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 14:02:01.458 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 14:02:01.474 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 14:02:05.610 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 14:02:07.500 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 14:02:22.234 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 14:03:02.563 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:03:02.566 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:03:02.566 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 14:03:02.815 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 14:03:02.830 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 14:03:06.976 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 14:03:08.731 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 14:03:23.637 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 14:04:36.363 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:04:36.365 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:04:36.365 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 14:04:36.630 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 14:04:36.643 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 14:04:39.283 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 14:04:42.024 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 14:04:56.767 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 14:05:49.998 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:05:50.000 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:05:50.001 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 14:05:50.246 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 14:05:50.262 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 14:05:54.774 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 14:05:57.102 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 14:23:24.156 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:23:24.159 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:23:24.159 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 14:23:24.922 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 14:23:24.934 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 14:23:29.605 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 14:23:31.335 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 14:23:47.861 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 14:24:48.430 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:24:48.432 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:24:48.432 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 14:24:48.698 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 14:24:48.713 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 14:24:51.286 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 14:24:55.423 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 14:25:12.799 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 14:26:33.492 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:26:33.494 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:26:33.494 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 14:26:33.738 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 14:26:33.752 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 14:26:37.624 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 14:26:39.241 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 14:26:56.644 [Test worker] INFO  core.TestListener - Test Error name: searchByCat
+2025-12-03 14:28:00.169 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:28:00.171 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:28:00.171 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 14:28:00.422 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 14:28:00.436 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 14:28:03.781 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 14:28:05.353 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 14:28:12.258 [Test worker] INFO  pages.DashboardPage - Condition: New sudah tertampil
+2025-12-03 14:29:34.586 [Test worker] INFO  core.ConfigReader - Loading properties from: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:29:34.589 [Test worker] INFO  core.ConfigReader - Loaded properties: /Users/selvia/Documents/Dibimbing QA Engineer/UserInterviewDBB-EbayUITest/src/test/resources/config/production.properties
+2025-12-03 14:29:34.589 [Test worker] INFO  core.BaseTest - Loaded config env: production
+2025-12-03 14:29:34.837 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 142.0.7444.175 (resolved driver for Chrome 142)
+2025-12-03 14:29:34.852 [Test worker] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/selvia/.cache/selenium/chromedriver/mac-arm64/142.0.7444.175/chromedriver
+2025-12-03 14:29:37.488 [Test worker] INFO  pages.DashboardPage - Navigate to url......
+2025-12-03 14:29:40.824 [Test worker] INFO  pages.DashboardPage - Click menu smartphone
+2025-12-03 14:29:48.051 [Test worker] INFO  pages.DashboardPage - Condition: New sudah tertampil
+2025-12-03 14:29:48.339 [Test worker] INFO  pages.DashboardPage - Price: Under $748,125 sudah tertampil
+2025-12-03 14:29:48.378 [Test worker] INFO  pages.DashboardPage - Item location: Worldwide sudah tertampil

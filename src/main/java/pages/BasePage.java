@@ -1,5 +1,6 @@
 package pages;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
@@ -29,4 +30,7 @@ public class BasePage {
     public void waitForUrlContains(String text) {
         wait.until(ExpectedConditions.urlContains(text));
     }
-}
+
+    public void waitForPresence(By locator) {
+        wait.until(ExpectedConditions.presenceOfElementLocated(locator));
+    }}

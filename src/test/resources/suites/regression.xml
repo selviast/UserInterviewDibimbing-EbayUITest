@@ -3,17 +3,14 @@
     <listeners>
         <listener class-name="core.TestListener"/>
     </listeners>
-    <test name="Regression Gist Test">
+    <test name="Ebay Homepage Test">
         <groups>
             <run>
                 <include name="regression"/>
             </run>
         </groups>
         <classes>
-            <class name="tests.DiscoverGistTest"/>
-            <class name="tests.LoginTest"/>
-            <class name="tests.CreateGistTest"/>
-            <class name="tests.YourGistTest"/>
+            <class name="tests.searchByCategoriesTest"/>
         </classes>
     </test>
 </suite>
